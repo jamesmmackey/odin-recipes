@@ -1,0 +1,27 @@
+body {
+    background-color: #455d7a;
+    color: #e3e3e3;
+    font-size: 20px;
+    font-family: 'Comic Sans MS', cursive;
+
+    
+}
+
+h1 {
+    color: #f95959;
+    background-color: #233142;
+    font-size: 70px;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+h2, h4 {
+    color: #f95959;
+    background-color: #233142;
+    font-family: 'Comic Sans MS', cursive;
+}
+
+ul, ol {
+    color: #567499;
+    background-color: #233142;
+    font-family: 'Comic Sans MS', cursive;
+}
